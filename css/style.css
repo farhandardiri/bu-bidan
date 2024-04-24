@@ -23,6 +23,7 @@ body {
     html,
     body {
         /* don't know how to set default units to rem in mojs :(( */
+    /* overflow-y: hidden; */
     }
 }
 
